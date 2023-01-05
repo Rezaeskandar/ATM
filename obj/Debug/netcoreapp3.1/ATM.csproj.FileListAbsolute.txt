@@ -1,0 +1,11 @@
+D:\school projects C#\ATM\ATM\bin\Debug\netcoreapp3.1\ATM.exe
+D:\school projects C#\ATM\ATM\bin\Debug\netcoreapp3.1\ATM.deps.json
+D:\school projects C#\ATM\ATM\bin\Debug\netcoreapp3.1\ATM.runtimeconfig.json
+D:\school projects C#\ATM\ATM\bin\Debug\netcoreapp3.1\ATM.runtimeconfig.dev.json
+D:\school projects C#\ATM\ATM\bin\Debug\netcoreapp3.1\ATM.dll
+D:\school projects C#\ATM\ATM\bin\Debug\netcoreapp3.1\ATM.pdb
+D:\school projects C#\ATM\ATM\obj\Debug\netcoreapp3.1\ATM.csprojAssemblyReference.cache
+D:\school projects C#\ATM\ATM\obj\Debug\netcoreapp3.1\ATM.AssemblyInfoInputs.cache
+D:\school projects C#\ATM\ATM\obj\Debug\netcoreapp3.1\ATM.AssemblyInfo.cs
+D:\school projects C#\ATM\ATM\obj\Debug\netcoreapp3.1\ATM.dll
+D:\school projects C#\ATM\ATM\obj\Debug\netcoreapp3.1\ATM.pdb
