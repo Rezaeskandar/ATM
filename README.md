@@ -6,8 +6,8 @@ Welcome to the Bank Project, a comprehensive banking system developed in C#.
 - Money transfer
 - 
 ##Bank Project Map(./images/bank_flowchart.png)
-![bank_flowchart](https://user-images.githubusercontent.com/113901667/212425073-1ecee820-61b0-4357-b118-a0027423ee17.png)
-<img src="[./images/screenshot.png](https://user-images.githubusercontent.com/113901667/212425073-1ecee820-61b0-4357-b118-a0027423ee17.png)" height ="500">
+![bank_flowchart](https://user-images.githubusercontent.com/113901667/212425073-1ecee820-61b0-4357-b118-a0027423ee17.png )
+<img src="./[images/screenshot.png](https://user-images.githubusercontent.com/113901667/212425073-1ecee820-61b0-4357-b118-a0027423ee17.png )" width="500" height="300">
 
 ## Getting Started
 1. Clone the repository by running the command `git clone https://github.com/username/BankProject.git`
