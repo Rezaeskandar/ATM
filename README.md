@@ -4,7 +4,8 @@ Welcome to the Bank Project, a comprehensive banking system developed in C#.
 - Account creation
 - Deposit and withdrawal
 - Money transfer
-![Bank Project Map](./images/bank_flowchart.png)
+- 
+###Bank Project Map(./images/bank_flowchart.png)
 <img src="./images/bank_flowchart.png" width="500">
 
 ## Getting Started
