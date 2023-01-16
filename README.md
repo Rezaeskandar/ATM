@@ -24,5 +24,3 @@ Welcome to the Bank Project, a comprehensive banking system developed in C#.
 - .NET Framework 4.7 or higher
 
 
-## Contributing
-If you would like to contribute to this project, please fork the repository and submit a pull request. Make sure to include a detailed description of the changes you made and how they were tested.
