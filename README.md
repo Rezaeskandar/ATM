@@ -4,7 +4,7 @@ Welcome to the Bank Project, a comprehensive banking system developed in C#.
 - Account creation
 - Deposit and withdrawal
 - Money transfer
-- 
+
 ##Bank Project Map(./images/bank_flowchart.png)
 
 <img src = https://user-images.githubusercontent.com/113901667/212425073-1ecee820-61b0-4357-b118-a0027423ee17.png width="900" height="1200">
@@ -22,7 +22,7 @@ Welcome to the Bank Project, a comprehensive banking system developed in C#.
 ## Requirements
 - Visual Studio
 - .NET Framework 4.7 or higher
-- SQL Server
+
 
 ## Contributing
 If you would like to contribute to this project, please fork the repository and submit a pull request. Make sure to include a detailed description of the changes you made and how they were tested.
