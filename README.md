@@ -24,3 +24,4 @@ Welcome to the Bank Project, a comprehensive banking system developed in C#.
 - .NET Framework 4.7 or higher
 
 
+![Alt Text](https://raw.githubusercontent.com/your_username/your_repository_name/master/path/to/your/gif.gif)
